@@ -54,6 +54,7 @@ contracts/
 ├── PriceConverter.sol     # Chainlink price feed logic
 README.md
 
+## ✈️ Deployment and 🧪testing
 🔗 Chainlink Price Feed
 Using Chainlink ETH/USD feed for Sepolia testnet:
 **Please use the contract address for price feed for your particular testnet by refering this website: https://docs.chain.link/data-feeds/price-feeds/addresses/**
